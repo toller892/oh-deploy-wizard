@@ -1,16 +1,7 @@
 node_modules/
 *.log
-npm-debug.log*
+deploy-config.json
 .DS_Store
-.env
-.env.local
-config.json
 *.swp
 *.swo
 *~
-.vscode/
-.idea/
-dist/
-build/
-coverage/
-.nyc_output/

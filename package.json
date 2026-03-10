@@ -1,0 +1,23 @@
+{
+  "name": "oh-deploy-wizard",
+  "version": "1.0.0",
+  "description": "One-click deployment assistant for OpenClaw",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "openclaw",
+    "deployment",
+    "wizard",
+    "automation",
+    "devops"
+  ],
+  "author": "Tony",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
